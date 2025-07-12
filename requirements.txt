@@ -1,0 +1,4 @@
+aiogram==2.25.1
+pandas==1.5.3
+notion-client==2.2.0
+python-dotenv==0.21.0
